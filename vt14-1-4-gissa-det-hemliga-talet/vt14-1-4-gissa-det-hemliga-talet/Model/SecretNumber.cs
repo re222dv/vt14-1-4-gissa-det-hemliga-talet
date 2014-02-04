@@ -17,7 +17,7 @@ namespace vt14_1_4_gissa_det_hemliga_talet {
         /// </summary>
         public bool CanMakeGuess {
             get {
-                return Outcome != Outcome.NoMoreGuesses && Outcome != Outcome.Right;
+                return Outcome != Outcome.NoMoreGuesses && Outcome != Outcome.Correct;
             }
         }
 

@@ -1,0 +1,17 @@
+﻿body {
+    padding: 20px;
+}
+
+h1 {
+    font-family: Arial;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+#OldGuesses {
+    margin-right: 5px;
+    color: #888;
+}

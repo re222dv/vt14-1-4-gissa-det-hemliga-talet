@@ -94,6 +94,15 @@ namespace vt14_1_4_gissa_det_hemliga_talet {
         protected global::System.Web.UI.WebControls.Label Result;
         
         /// <summary>
+        /// HaveFailed control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.PlaceHolder HaveFailed;
+        
+        /// <summary>
         /// Fail control.
         /// </summary>
         /// <remarks>
@@ -101,6 +110,15 @@ namespace vt14_1_4_gissa_det_hemliga_talet {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Fail;
+        
+        /// <summary>
+        /// Done control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.PlaceHolder Done;
         
         /// <summary>
         /// Restart control.
